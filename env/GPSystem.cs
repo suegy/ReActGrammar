@@ -13,7 +13,7 @@ namespace react.Grammar.env
     /// <summary>
     /// entry point for the GP system:\n
     /// </summary>
-    public class GPSystem 
+    public class GPSystem
     {
         public Random m_randomGenerator;
         private Thread m_gpThread;
