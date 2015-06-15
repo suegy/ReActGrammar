@@ -2,11 +2,11 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using GrammarGP.elements;
+using react.Grammar.elements;
 using POSH.sys;
-using GrammarGP.elements.POSH;
+using react.Grammar.elements.POSH;
 
-namespace GrammarGP.env
+namespace react.Grammar.env
 {
     public class GenoType 
     {

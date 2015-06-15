@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using GrammarGP.elements;
+using react.Grammar.elements;
 
-namespace GrammarGP.operators
+namespace react.Grammar.operators
 {
     public interface ICrossOverOperator
     {

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace GrammarGP.elements
+namespace react.Grammar.elements
 {
     public interface IGenePool : ICloneable
     {
@@ -17,6 +17,6 @@ namespace GrammarGP.elements
 
         AGene GetGene(decimal geneID);
 
-        AGene[] GetAllGenes(GrammarGP.elements.AGene.GeneType gType);
+        AGene[] GetAllGenes(react.Grammar.elements.AGene.GeneType gType);
     }
 }

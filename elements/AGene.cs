@@ -2,11 +2,11 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using GrammarGP.env;
-using GrammarGP.elements.exceptions;
+using react.Grammar.env;
+using react.Grammar.elements.exceptions;
 using POSH.sys;
 
-namespace GrammarGP.elements
+namespace react.Grammar.elements
 {
     public abstract class AGene : ICloneable
     {

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace GrammarGP.elements
+namespace react.Grammar.elements
 {
     public class GenePool : IGenePool
     {

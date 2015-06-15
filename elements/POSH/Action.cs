@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using GrammarGP.env;
+using react.Grammar.env;
 using POSH.sys;
 
-namespace GrammarGP.elements.POSH
+namespace react.Grammar.elements.POSH
 {
     public class POSHAction : AGene
     {

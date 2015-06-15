@@ -3,12 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading;
-using GrammarGP.elements.POSH;
+using react.Grammar.elements.POSH;
 using POSH.sys;
-using GrammarGP.elements;
+using react.Grammar.elements;
 
 
-namespace GrammarGP.env
+namespace react.Grammar.env
 {
     /// <summary>
     /// entry point for the GP system:\n

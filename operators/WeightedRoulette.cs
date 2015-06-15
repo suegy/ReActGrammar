@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using GrammarGP.env;
-using GrammarGP.elements;
+using react.Grammar.env;
+using react.Grammar.elements;
 
-namespace GrammarGP.operators
+namespace react.Grammar.operators
 {
     public class WeightedRoulette : ISelectOperator
     {

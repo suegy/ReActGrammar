@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using GrammarGP.elements;
-using GrammarGP.env;
+using react.Grammar.elements;
+using react.Grammar.env;
 
-namespace GrammarGP.operators
+namespace react.Grammar.operators
 {
     public interface ISelectOperator
     {

@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using POSH.sys;
-using GrammarGP.env;
+using react.Grammar.env;
 
-namespace GrammarGP.elements.POSH
+namespace react.Grammar.elements.POSH
 {
     public class Terminal:AGene,IComparable
     {

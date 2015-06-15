@@ -8,8 +8,8 @@
     <ProjectGuid>{EF96D805-C98A-45D1-80A4-A040D917AB03}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>GrammarGP</RootNamespace>
-    <AssemblyName>GrammarGP</AssemblyName>
+    <RootNamespace>react.Grammar</RootNamespace>
+    <AssemblyName>ReActGrammar</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />

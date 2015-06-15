@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using POSH.sys;
 
-namespace GrammarGP.elements
+namespace react.Grammar.elements
 {
     public interface IProgram
     {

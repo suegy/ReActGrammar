@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using POSH.sys;
 using POSH.sys.exceptions;
-using GrammarGP.env;
+using react.Grammar.env;
 
-namespace GrammarGP.elements.POSH
+namespace react.Grammar.elements.POSH
 {
     public class GPPlanBuilder
     {

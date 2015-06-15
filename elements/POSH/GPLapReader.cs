@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using POSH.sys.parse;
 
-namespace GrammarGP.elements.POSH
+namespace react.Grammar.elements.POSH
 {
     public class GPLapReader : LAPParser
     {

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace GrammarGP.elements.exceptions
+namespace react.Grammar.elements.exceptions
 {
     public class GPTypeMismatchException : Exception
     {
